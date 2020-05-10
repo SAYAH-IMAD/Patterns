@@ -17,6 +17,4 @@ namespace Patterns.Creational.Singleton.Basic
             return _singleton;
         }
     }
-
-  
 }
